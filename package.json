@@ -1,0 +1,21 @@
+{
+  "name": "ng-masonry",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "main": "bundles/ng-masonry.umd.js",
+  "module": "fesm5/ng-masonry.js",
+  "es2015": "fesm2015/ng-masonry.js",
+  "esm5": "esm5/ng-masonry.js",
+  "esm2015": "esm2015/ng-masonry.js",
+  "fesm5": "fesm5/ng-masonry.js",
+  "fesm2015": "fesm2015/ng-masonry.js",
+  "typings": "ng-masonry.d.ts",
+  "metadata": "ng-masonry.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
